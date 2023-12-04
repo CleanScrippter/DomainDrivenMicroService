@@ -1,7 +1,7 @@
 # DomainDrivenMicroService
 
 
-This Project Includes te concept of Domain Driven Deveolpment by creating Two Microservices independently running on two different ports. 
+This Project Includes the concept of Domain Driven Deveolpment by creating Two Microservices independently running on two different ports. 
 We will be building a Simple Microservice Application for demonstrating various Concepts including Microservice Architecture in ASP.NET Core, API Gateways.
 
 Here is what a Microservice Architecture would look like.
@@ -14,3 +14,9 @@ The Project Currently Getting Data from local SQL Db.
 All the response coming is direcly from DB.
 The Project has a scope of improvement by adding xUnit test cases.
 We Can Also provide DocumentDB to get data.
+
+Sample Swagger Documentation : 
+
+
+<img width="600" alt="image" src="https://github.com/CleanScrippter/DomainDrivenMicroService/assets/103526800/5097f5bf-3ab4-4c2b-8e90-e14fd3881b86">
+
